@@ -18,7 +18,7 @@ SPL Monitor to projekt czujnika dźwięku zbudowanego na platformie Arduino, kt�
  
 ## 🧰 Wykorzystane komponenty
  
-- **Mikrokontroler**: Arduino (Uno, Nano lub kompatybilny)
+- **Mikrokontroler**: Arduino UNO
 - **Czujnik dźwięku**: Mikrofon analogowy z wyjściem A0
 - **Terminal szeregowy**: PuTTY
 - **Napięcie referencyjne**: 5V
