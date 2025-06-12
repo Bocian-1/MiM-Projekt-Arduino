@@ -43,6 +43,10 @@ Zastosowano klasę `SPLMonitor`, zawierającą:
   - `checkSerial()` – obsługa komend
   - Konstruktor umożliwia ustawienie początkowego progu
  
-## 📷 Przykład działania
+## 📷 Przykład działania i zdjęcia
 
 ![image](https://github.com/user-attachments/assets/4eb8dcb8-1517-423c-8ca3-7fc184b70da7)
+![image](https://github.com/user-attachments/assets/1124916e-db6a-4401-b8de-d614c918af09)
+![image](https://github.com/user-attachments/assets/c2bcb0d1-a2a3-4a37-ba91-40e8e7274c64)
+![image](https://github.com/user-attachments/assets/fc831d47-907c-4926-9767-e6cedd1f537f)
+
